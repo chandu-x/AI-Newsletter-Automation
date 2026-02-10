@@ -169,23 +169,7 @@ This project demonstrates:
 - [ ] Add multi-language support
 - [ ] Integration with marketing automation platforms
 
-## 📄 License
 
-This project is open source and available under the MIT License.
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- [n8n](https://n8n.io) for the workflow automation platform
-- [Tavily](https://tavily.com) for research API
-- [OpenRouter](https://openrouter.ai) for LLM access
-- [LangChain](https://langchain.com) for agent framework
-
----
 
 **⭐ If you find this project useful, please consider giving it a star!**
